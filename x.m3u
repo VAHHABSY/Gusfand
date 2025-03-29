@@ -1,0 +1,860 @@
+EXTINF:-1,Adult live tv1
+http://37.9.0.201:8888
+#EXTINF:-1,Adult live tv2
+http://37.9.0.201:8889
+#EXTINF:-1,Adult live tv3
+http://37.9.0.201:8890
+#EXTINF:-1,Adult live tv4
+http://37.9.0.201:8811
+#EXTINF:-1,Sex Zone (18+)
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
+#EXTINF:-1,VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,Fundorado (18+)
+http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
+#EXTINF:-1,Cento X Cento TV (18+)
+http://37.9.0.201:8811
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6e32zl4.png" group-title="IPTV",Babestation Xtreme
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/suVpO98.png" group-title="IPTV",Blue Hustler [Off]
+http://78.109.133.126:81/udp/239.1.6.36:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe [Off]
+http://78.109.133.126:81/udp/239.1.6.40:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t8XLOQL.png" group-title="IPTV",Candy TV [Off]
+http://95.85.92.240:34040/udp/239.191.254.173:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman
+http://media.anycaster.tv/candyman/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2ogUFiG.png" group-title="IPTV",Egoist TV [Off]
+http://95.85.92.240:34040/udp/239.191.254.249:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 1
+http://185.93.1.41/erotic1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 2
+http://185.93.1.41/erotic2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 3
+http://185.93.1.41/erotic3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 4
+http://185.93.1.41/erotic4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-1]
+http://91.211.143.214:3333/play/a006
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-2]
+http://31.128.132.159:3371/udp/239.1.13.4:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-3]
+http://95.181.238.7:81/udp/239.191.254.251:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club [Off]
+http://95.85.92.240:34040/udp/239.191.254.38:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart [Off]
+http://78.111.176.132:8080/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La [Off]
+http://95.85.92.240:34040/udp/239.191.254.161:15285
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
+http://37.9.0.201:8888
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV [Off]
+http://78.109.133.126:81/udp/239.1.6.39:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ljBWxnA.png" group-title="IPTV",Redlight HD
+http://s5.telek.me/1393/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Night [Off]
+http://78.111.176.132:8082
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
+http://37.9.0.201:8888
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Penthouse Asia
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
+http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="IPTV",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1,---ADULTI XXX--- 
+http://www.pandasat.info/iptv/PLAYLIST.avi 
+#EXTINF:-1, BrazzersTVEurope
+http://stb.tvoetv.in.ua:7071/play/a0ad?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Русская ночь
+http://stb.tvoetv.in.ua:7071/play/a07l?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Playboy TV
+http://stb.tvoetv.in.ua:7071/play/a07j?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 EROX HD
+http://stb.tvoetv.in.ua:7071/play/a07m?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Penthouse 1 HD
+http://stb.tvoetv.in.ua:7071/play/a051?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Redlight HD
+http://stb.tvoetv.in.ua:7071/play/a05n?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Ночной клуб
+http://stb.tvoetv.in.ua:7071/play/a07k?auth=MIKAILA250595:5VYXYyB
+#EXTINF:-1, +18 Penthouse 2 HD
+http://stb.tvoetv.in.ua:7071/play/a050?auth=MIKAILA250595:5VYXYyB
+
+
+
+#EXTINF:-1,Nuart
+http://78.111.176.132:8080
+#EXTINF:-1,Russian Night
+http://78.111.176.132:8082
+http://84.243.221.164:8000/play/a01p
+#EXTINF:-1,HOT 01
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-15/0/pc.m3u8
+#EXTINF:-1,HOT 02
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-16/0/pc.m3u8
+#EXTINF:-1,HOT 03 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-17/0/pc.m3u8
+#EXTINF:-1,HOT 04 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-18/0/pc.m3u8
+#EXTINF:-1,HOT
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-19/0/pc.m3u8
+#EXTINF:-1,HOT 05 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-21/0/pc.m3u8
+#EXTINF:-1,HOT 6
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-26/0/pc.m3u8
+#EXTINF:-1,HOT 07 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-27/0/pc.m3u8
+#EXTINF:-1,HOT 08
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-28/0/pc.m3u8
+#EXTINF:-1,HOT X
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-30/0/pc.m3u8
+#EXTINF:-1,HOT 9
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-31/0/pc.m3u8
+#EXTINF:-1,HOT 10 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-36/0/pc.m3u8
+#EXTINF:-1,HOT XXX
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-37/0/pc.m3u8
+#EXTINF:-1,HOT 11 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-45/0/pc.m3u8
+#EXTINF:-1,HOT 12 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-47/0/pc.m3u8
+#EXTINF:-1,HOT 13 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-48/0/pc.m3u8
+#EXTINF:-1,HOT 14
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-49/0/pc.m3u8
+#EXTINF:-1,HOT 15 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-50/0/pc.m3u8
+#EXTINF:-1,HOT 16 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-51/0/pc.m3u8
+#EXTINF:-1,HOT 17 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-52/0/pc.m3u8
+#EXTINF:-1,HOT 18 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-53/0/pc.m3u8
+#EXTINF:-1,HOT 19 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-54/0/pc.m3u8
+#EXTINF:-1,HOT 20 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-63/0/pc.m3u8
+#EXTINF:-1,HOT 21 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-64/0/pc.m3u8
+#EXTINF:-1,HOT ero
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-66/0/pc.m3u8
+#EXTINF:-1,HOT 22 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-68/0/pc.m3u8
+#EXTINF:-1,NHOT 23
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-70/0/pc.m3u8
+#EXTINF:-1,HOT 24 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-71/0/pc.m3u8
+#EXTINF:-1,HOT erotic HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-72/0/pc.m3u8
+#EXTINF:-1,HOT 25 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-73/0/pc.m3u8
+#EXTINF:-1,HOT 26 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-74/0/pc.m3u8
+#EXTINF:-1,HOT 27
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-75/0/pc.m3u8
+#EXTINF:-1,HOT 28
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-76/0/pc.m3u8
+#EXTINF:-1,erotic
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-77/0/pc.m3u8
+#EXTINF:-1,HOT 29
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-78/0/pc.m3u8
+#EXTINF:-1,HOT 30
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-79/0/pc.m3u8
+#EXTINF:-1,HOT 31
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-80/0/pc.m3u8
+#EXTINF:-1,HOT 32 HD
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-92/0/pc.m3u8
+#EXTINF:-1,HOT 33
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-105/0/pc.m3u8
+#EXTINF:-1,HOT 34
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-107/0/pc.m3u8
+#EXTINF:-1,HOT 35
+http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-108/0/pc.m3u8
+
+#EXTINF:-1,XXX | ADULT CHANNEL 1
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8195.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 2
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8194.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 3
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8193.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 4
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8192.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 5
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8191.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 6
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8190.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 7
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8189.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 8
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8188.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 9
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8187.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 10
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8186.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 11
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8185.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 12
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8184.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 13
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8183.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 14
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8182.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 15
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8181.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 16
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8180.ts
+#EXTINF:-1,XXX | ADULT CHANNEL 17
+http://2pro.info:8000/live/a8f0YAdFNM/PiBotDWbya/8179.ts
+#EXTINF:-1,XXX StatisFaction
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10169.ts
+#EXTINF:-1,XXX Passie XXX
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/9757.ts
+#EXTINF:-1,XXX Dorcell
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10172.ts
+#EXTINF:-1,XXX SextoSenso
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/14637.ts
+#EXTINF:-1,XXX Hustler Hd
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16079.ts
+#EXTINF:-1,--- HOT LIVE ---
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/64419.ts
+#EXTINF:-1,Brazers Big-Tits 1
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20839.ts
+#EXTINF:-1,Brazers Big-Tits 2
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20840.ts
+#EXTINF:-1,Brazers Big-Tits 3
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20841.ts
+#EXTINF:-1,Brazers Big-Tits 4
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20842.ts
+#EXTINF:-1,Brazers Big-Tits 5
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20843.ts
+#EXTINF:-1,Brazers Big-Tits 6
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20844.ts
+#EXTINF:-1,Brazers Big-Tits 7
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20845.ts
+#EXTINF:-1,Brazers Big-Tits 8
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20846.ts
+#EXTINF:-1,Brazers Big-Tits 9
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20847.ts
+#EXTINF:-1,Brazers Big-Tits 10
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20848.ts
+#EXTINF:-1,Brazers Big-Tits 11
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/20849.ts
+#EXTINF:-1,PRIMAFILA_XXX_1
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41960.ts
+#EXTINF:-1,PRIMAFILA_XXX_2
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41961.ts
+#EXTINF:-1,PRIMAFILA_XXX_3
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41962.ts
+#EXTINF:-1,PRIMAFILA_XXX_4
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41963.ts
+#EXTINF:-1,PRIMAFILA_XXX_5
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41964.ts
+#EXTINF:-1,PRIMAFILA_XXX_6
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41965.ts
+#EXTINF:-1,PRIMAFILA_XXX_7
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41966.ts
+#EXTINF:-1,PRIMAFILA_XXX_8X
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41967.ts
+#EXTINF:-1,PRIMAFILA_XXX_9
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41968.ts
+#EXTINF:-1,PRIMAFILA_XXX_10
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/41969.ts
+#EXTINF:-1,Primafila Hot Club 1 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10062.ts
+#EXTINF:-1,Primafila Hot Club 2 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10063.ts
+#EXTINF:-1,Primafila Hot Club 3 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10064.ts
+#EXTINF:-1,Primafila Hot Club 4 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10065.ts
+#EXTINF:-1,Primafila Hot Club 5 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10066.ts
+#EXTINF:-1,Primafila Hot Club 6 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10067.ts
+#EXTINF:-1,Primafila Hot Club 7 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10068.ts
+#EXTINF:-1,Primafila Hot Club 8 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10069.ts
+#EXTINF:-1,Primafila Hot Club 9 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10070.ts
+#EXTINF:-1,Primafila Hot Club 10 HD
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10071.ts
+#EXTINF:-1,Abella Anderson
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/10786.ts
+#EXTINF:-1,Abella Anderson 1
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16806.ts
+#EXTINF:-1,Abella Anderson 2
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16807.ts
+#EXTINF:-1,Abella Anderson 3
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16808.ts
+#EXTINF:-1,Abella Anderson 4
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16809.ts
+#EXTINF:-1,Abella Anderson 5
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16810.ts
+#EXTINF:-1,Abella Anderson 6
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16811.ts
+#EXTINF:-1,Abella Anderson 7
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16812.ts
+#EXTINF:-1,Abella Anderson 8
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16813.ts
+#EXTINF:-1,Abella Anderson 9
+http://sasuketv.iptvitalia.eu:2300/live/Iptvb229/ihIdpQHePx/16814.ts
+#EXTINF:-1,XX107
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-107/pc.m3u8
+#EXTINF:-1,XX108 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-108/pc.m3u8
+#EXTINF:-1,XX15
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-15/pc.m3u8
+#EXTINF:-1,XX16
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-16/pc.m3u8
+#EXTINF:-1,XX18 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-18/pc.m3u8
+#EXTINF:-1,XX19
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-19/pc.m3u8
+#EXTINF:-1,XX21 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-21/pc.m3u8
+#EXTINF:-1,XX26
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-26/pc.m3u8
+#EXTINF:-1,XX27 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-27/pc.m3u8
+#EXTINF:-1,XX28 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-28/pc.m3u8
+#EXTINF:-1,XX30
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-30/pc.m3u8
+#EXTINF:-1,XX31
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-31/pc.m3u8
+#EXTINF:-1,XX36 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-36/pc.m3u8
+#EXTINF:-1,XX45 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-45/pc.m3u8
+#EXTINF:-1,XX47 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-47/pc.m3u8
+#EXTINF:-1,XX48 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-48/pc.m3u8
+#EXTINF:-1,XX49
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-49/pc.m3u8
+#EXTINF:-1,XX50 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-50/pc.m3u8
+#EXTINF:-1,XX51 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-51/pc.m3u8
+#EXTINF:-1,XX52 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-52/pc.m3u8
+#EXTINF:-1,XX54 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-54/pc.m3u8
+#EXTINF:-1,XX63 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-63/pc.m3u8
+#EXTINF:-1,XX64 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-64/pc.m3u8
+#EXTINF:-1,XX66
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-66/pc.m3u8
+#EXTINF:-1,XX68 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-68/pc.m3u8
+#EXTINF:-1,XX70
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-70/pc.m3u8
+#EXTINF:-1,XX71 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-71/pc.m3u8
+#EXTINF:-1,XX72 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-72/pc.m3u8
+#EXTINF:-1,XX73 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-73/pc.m3u8
+#EXTINF:-1,XX74 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-74/pc.m3u8
+#EXTINF:-1,XX75 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-75/pc.m3u8
+#EXTINF:-1,XX76 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-76/pc.m3u8
+#EXTINF:-1,XX77
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-77/pc.m3u8
+#EXTINF:-1,XX78 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-78/pc.m3u8
+#EXTINF:-1,XX79 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-79/pc.m3u8
+#EXTINF:-1,XX92 HD
+http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-92/pc.m3u8 
+EXTINF:-1,tv1XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-45/0/517.m3u8
+#EXTINF:-1,tv2XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-47/0/517.m3u8
+#EXTINF:-1,tv3XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-48/0/517.m3u8
+#EXTINF:-1,tv4XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-49/0/517.m3u8
+#EXTINF:-1,tv5XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-51/0/517.m3u8
+#EXTINF:-1,tv6XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-52/0/517.m3u8
+#EXTINF:-1,tv7XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-53/0/517.m3u8
+#EXTINF:-1,tv8XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-54/0/517.m3u8
+#EXTINF:-1,tv9XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-63/0/517.m3u8
+#EXTINF:-1,tv10XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-64/0/517.m3u8
+#EXTINF:-1,tv11XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-66/0/517.m3u8
+#EXTINF:-1,tv12XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-68/0/517.m3u8
+#EXTINF:-1,tv13XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-70/0/517.m3u8
+#EXTINF:-1,tv14XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-71/0/517.m3u8
+#EXTINF:-1,tv15XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-73/0/517.m3u8
+#EXTINF:-1,tv16XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-72/0/517.m3u8
+#EXTINF:-1,tv17XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-74/0/517.m3u8
+#EXTINF:-1,tv18XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-75/0/517.m3u8
+#EXTINF:-1,tv19XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-76/0/517.m3u8
+#EXTINF:-1,tv20XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-77/0/517.m3u8
+#EXTINF:-1,tv21XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-78/0/517.m3u8
+#EXTINF:-1,tv22XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-79/0/517.m3u8
+#EXTINF:-1,tv23XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-80/0/517.m3u8
+#EXTINF:-1,tv24XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-92/0/517.m3u8
+#EXTINF:-1,tv25XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-105/0/517.m3u8
+#EXTINF:-1,tv26XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-107/0/517.m3u8
+#EXTINF:-1,tv27XXX HD
+http://playlist.prg09.v-ip-tv.com/atip/efb0017e121fd09542cf432f93229844/1505021129524/channel-108/0/517.m3u8
+EXTINF:-1 ,鳳凰資訊
+http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
+
+#EXTINF:-1 ,鳳凰美洲
+http://live.italkdd.com/cds160/hls/channel001/channel001.m3u8
+
+#EXTINF:-1 ,鳳凰香港
+http://live.italkdd.com/cds160/hls/channel016/channel016.m3u8
+
+#EXTINF:-1 ,壹电视新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+
+#EXTINF:-1 ,民视新闻HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 ,TVBS-N
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+
+#EXTINF:-1 ,中天新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+#EXTINF:-1 ,三立臺灣臺
+http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+
+#EXTINF:-1 ,TVBS新聞
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+
+#EXTINF:-1 ,非凡新聞
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+
+#EXTINF:-1 ,東森美洲新聞
+http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+
+#EXTINF:-1 ,中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+
+#EXTINF:-1 ,中旺電視
+http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
+
+#EXTINF:-1 ,環球電視
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
+#EXTINF:-1 ,亞洲旅遊臺
+http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1 ,三立臺灣
+http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+
+#EXTINF:-1 ,東森新聞
+http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+
+#EXTINF:-1 ,壹新聞備
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+#EXTINF:-1 ,壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+
+#EXTINF:-1 ,東森美洲臺
+http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+
+#EXTINF:-1 ,壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+
+#EXTINF:-1 ,天空新聞
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 ,BasTV4K影院
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 ,華視咨訊
+http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+
+#EXTINF:-1 ,華視新聞
+http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
+
+#EXTINF:-1 ,臺視新聞
+http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+
+#EXTINF:-1 ,新加坡亞洲新聞臺
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+#EXTINF:-1 ,新加坡8頻道
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+
+#EXTINF:-1 ,新加坡5頻道
+http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+
+#EXTINF:-1 ,越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
+#EXTINF:-1 ,加州音悅臺
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+
+#EXTINF:-1 ,WFCHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,韓國音樂臺
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
+
+#EXTINF:-1 ,優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 ,澳門立法會
+http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8
+
+#EXTINF:-1 ,衛星電視
+http://103.233.191.136/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 ,澳視葡文臺
+http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 ,澳視澳門
+http://103.233.191.136/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 ,信天遊
+http://hc.yinyuetai.com/F8190136EA197DA6F00D511F5F2B2840.flv
+
+#EXTINF:-1 ,環球電影
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+
+#EXTINF:-1 ,澳視高清體育
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+
+#EXTINF:-1 ,澳視體育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 ,澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+
+#EXTINF:-1 ,澳視澳門
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+
+#EXTINF:-1 ,澳門2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
+#EXTINF:-1 ,澳門1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+
+#EXTINF:-1 ,NHK綜合臺
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 ,華劇臺
+http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
+
+#EXTINF:-1 ,nowtv
+http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+
+#EXTINF:-1 ,好萊塢中文備
+http://117.169.120.206:8080/live/fhzixun/1.m3u8
+
+#EXTINF:-1 ,星空衛視備
+http://222.207.48.30/hls/startv.m3u8
+
+#EXTINF:-1 ,本港臺
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+
+#EXTINF:-1 ,奇妙77臺
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 ,奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,TVBj5
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:-1 ,松视HD
+http://59.120.242.104:9000/live/live6.m3u8
+
+#EXTINF:-1 ,纬来体育HD
+http://59.120.242.104:9000/live/live12.m3u8
+
+#EXTINF:-1 ,纬来日本HD
+http://59.120.242.104:9000/live/live11.m3u8
+
+#EXTINF:-1 ,卫视电影台HD
+http://59.120.242.104:9000/live/live10.m3u8
+
+#EXTINF:-1 ,博斯高球HD
+http://59.120.242.104:9000/live/live9.m3u8
+
+#EXTINF:-1 ,新闻HD
+http://59.120.242.104:9000/live/live8.m3u8
+
+#EXTINF:-1 ,环宇新闻HD
+http://59.120.242.104:9000/live/live13.m3u8
+
+#EXTINF:-1 ,龙华洋片HD
+http://59.120.242.104:9000/live/live5.m3u8
+
+#EXTINF:-1 ,中天新闻HD
+http://59.120.242.104:9000/live/live4.m3u8
+
+#EXTINF:-1 ,年代新闻HD
+http://59.120.242.104:9000/live/live3.m3u8
+
+#EXTINF:-1 ,中文洋片HD
+http://59.120.242.104:9000/live/live1.m3u8
+
+#EXTINF:-1 ,美亚电影HD
+http://59.120.242.104:9000/live/live2.m3u8
+
+#EXTINF:-1 ,台湾寰宇新闻2台
+http://61.216.177.73/sta/ch10119013.m3u8
+
+#EXTINF:-1 ,台湾龙华电影
+http://61.216.177.73/sta/ch10119012.m3u8
+
+#EXTINF:-1 ,台湾龙华经典
+http://61.216.177.73/sta/ch10119014.m3u8
+
+#EXTINF:-1 ,台湾龙华经典
+http://61.218.44.196:8000/main
+
+#EXTINF:-1 ,台湾龙华动画
+http://61.216.177.73/sta/ch10119009.m3u8
+
+#EXTINF:-1 ,台湾龙华影剧
+http://61.216.177.73/sta/ch10119008.m3u8
+
+#EXTINF:-1 ,台湾龙华偶像
+http://61.216.177.73/sta/ch10119007.m3u8
+
+#EXTINF:-1 ,台湾龙华戏剧
+http://61.216.177.73/sta/ch10119006.m3u8
+
+#EXTINF:-1 ,台湾民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 ,台湾民视新闻
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+
+#EXTINF:-1 ,台湾台视
+http://61.216.177.73/sta/ch10119036.m3u8
+
+#EXTINF:-1 ,台湾台视
+http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://live.italkdd.com/cds160/hls/channel011/channel011.m3u8
+
+#EXTINF:-1 ,台湾台视综合
+http://61.216.177.73/sta/ch10119037.m3u8
+
+#EXTINF:-1 ,台湾台视新闻
+http://61.216.177.73/sta/ch10119038.m3u8
+
+#EXTINF:-1 ,台湾台视财经
+http://61.216.177.73/sta/ch10119039.m3u8
+
+#EXTINF:-1 ,台湾生命电视台
+http://61.216.177.73/sta/ch1865007.m3u8
+
+#EXTINF:-1 ,台湾亲子台
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 ,台湾全美台
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+
+#EXTINF:-1 ,台湾天良台
+http://61.216.177.73/sta/ch1865001.m3u8
+
+#EXTINF:-1 ,台湾天映频道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1 ,台湾唯心台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
+#EXTINF:-1 ,台湾靖天资讯
+http://61.216.177.73/sta/ch10119024.m3u8
+
+#EXTINF:-1 ,台湾靖洋卡通
+http://61.216.177.73/sta/ch10119027.m3u8
+
+#EXTINF:-1 ,台湾靖天育乐
+http://61.216.177.73/sta/ch10119028.m3u8
+
+#EXTINF:-1 ,台湾靖天综合
+http://61.216.177.73/sta/ch10119029.m3u8
+
+#EXTINF:-1 ,台湾靖天卡通
+http://61.216.177.73/sta/ch10119030.m3u8
+
+#EXTINF:-1 ,台湾靖天国际
+http://61.216.177.73/sta/ch10119031.m3u8
+
+#EXTINF:-1 ,台湾靖天日本
+http://61.216.177.73/sta/ch10119032.m3u8
+
+#EXTINF:-1 ,台湾博斯高球2
+http://61.216.177.73/sta/ch10119015.m3u8
+
+#EXTINF:-1 ,台湾博斯高球
+http://61.216.177.73/sta/ch10119016.m3u8
+
+#EXTINF:-1 ,台湾博斯运动
+http://61.216.177.73/sta/ch10119017.m3u8
+
+#EXTINF:-1 ,台湾博斯运动2
+http://61.216.177.73/sta/ch10119018.m3u8
+
+#EXTINF:-1 ,台湾博斯无限
+http://61.216.177.73/sta/ch10119019.m3u8
+
+#EXTINF:-1 ,台湾博斯魅力
+http://61.216.177.73/sta/ch10119020.m3u8
+
+#EXTINF:-1 ,台湾博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 ,台湾博斯网球
+http://61.216.177.73/sta/ch91865001.m3u8
+
+#EXTINF:-1 ,台湾天下台
+http://live.italkdd.com/cds160/hls/channel017/channel017.m3u8
+
+#EXTINF:-1 ,台湾采昌台
+http://61.216.177.73/sta/ch91865002.m3u8
+
+#EXTINF:-1 ,台湾大爱电视台
+http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1 ,台湾信吉电视
+http://61.216.177.73/sta/ch1865002.m3u8
+
+#EXTINF:-1 ,台湾富立电视台
+http://61.216.177.73/sta/ch1865022.m3u8
