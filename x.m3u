@@ -1,4 +1,5 @@
-EXTINF:-1,Adult live tv1
+#EXTM3U
+#EXTINF:-1,Adult live tv1
 http://37.9.0.201:8888
 #EXTINF:-1,Adult live tv2
 http://37.9.0.201:8889
