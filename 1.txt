@@ -3,3 +3,11 @@ wireguard://IMGsK%2BOwNrfMsxqPvK%2Ba%2FBkwETC4x%2FlD5rgkLbvgHUw%3D@188.114.96.16
 wireguard://gIimihVD4GhLTO5BlA%2B7j2UhbeDCd1CFVfLcliTOfF0%3D@162.159.192.101:859?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f12%3Abe62%3Aebe6%3A6598%3A7e6e%2F128&reserved=8%2C96%2C42&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Generate%203
 socks://Og%3D%3D@192.168.3.140:2060#Mi12
 wireguard://OFuLTFExQkuas4sXoLX3VkGKLRp0oWhR8pyAc31fEWU%3D@188.114.98.224:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A870a%3A3936%3A309d%3A2c17%3Af126%2F128&reserved=94%2C147%2C14&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=720#WIREGUARD%20-%20MTU%20720%22%22%22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172
+Https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv 
+Https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-2.csv
+Https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-3.csv
+Https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv
